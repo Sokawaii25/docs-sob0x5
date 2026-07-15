@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-4tl6pm.newsyourday.com/sitemap.xml
